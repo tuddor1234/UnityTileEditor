@@ -1,0 +1,30 @@
+{
+    "UxmlGuid": "de52cf01a411b0544856f6b0571c7923",
+    "UxmlPath": "Assets/TileEditor/Editor/TileEditorUIToolkit.uxml",
+    "CanvasX": 16,
+    "CanvasY": 0,
+    "CanvasWidth": 535,
+    "CanvasHeight": 526,
+    "MatchGameView": false,
+    "ZoomScale": 1.0,
+    "PanOffset": {
+        "x": 187.0,
+        "y": 195.60000610351563
+    },
+    "ColorModeBackgroundOpacity": 1.0,
+    "ImageModeCanvasBackgroundOpacity": 1.0,
+    "CameraModeCanvasBackgroundOpacity": 1.0,
+    "EnableCanvasBackground": false,
+    "CanvasBackgroundMode": 0,
+    "CanvasBackgroundColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 255.0
+    },
+    "CanvasBackgroundImage": {
+        "instanceID": 0
+    },
+    "CanvasBackgroundImageScaleMode": 1,
+    "CanvasBackgroundCameraName": ""
+}
