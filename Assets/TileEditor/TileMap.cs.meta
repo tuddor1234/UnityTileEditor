@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: dd2b2e6cd3ea4204da2c4a9e2ee29a26
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - texture2D: {fileID: 2800000, guid: 5efa9d192e4fffc498c0f7b0c3c64b6f, type: 3}
+  - tileContainer: {fileID: 1270154571447206301, guid: 6fb2555f26450a34b8b56c053b315e1c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
