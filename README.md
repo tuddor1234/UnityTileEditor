@@ -4,7 +4,9 @@
 ![alt text](https://github.com/tuddor1234/UnityTileEditor/blob/main/GIZOMOS.gif)
 
 - Add / Remove Tiles
-- Load Tiles from Disk
-- Save Maps as prefabs
 ![alt text](https://github.com/tuddor1234/UnityTileEditor/blob/main/1.png)
+- Load Tiles from Disk
+- Save Maps as prefabs and reuse them
+
+![alt text](https://github.com/tuddor1234/UnityTileEditor/blob/main/2.gif)
 
